@@ -1987,17 +1987,17 @@ table {
 .table th,
 .table td {
   padding: 8px;
-  border-color: #2E586D;
+  border-color: #857c7c;
   font-size: 14px;
   color: #BFBFBF;
   line-height: 20px;
   text-align: left;
   vertical-align: top;
-  border-top: 1px solid #2E586D;
+  border-top: 1px solid #857c7c;
 }
 .table th{
   border-width: 2px;
-  border-color: #224556;
+  border-color: #857c7c;
 
 }
 
