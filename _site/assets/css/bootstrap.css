@@ -2002,6 +2002,7 @@ table {
 }
 .tableth {
   margin-top: 30px;
+  
   margin-bottom: 20px;
 }
 
@@ -2016,7 +2017,7 @@ table {
 }
 .tableth th{
   width: 170px;
-  padding: 1 1;
+  padding-right: 5px;
   border-width: 1px;
   border-color: lightgray;
 
