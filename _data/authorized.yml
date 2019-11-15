@@ -21,10 +21,10 @@
 - imageUrl: assets/authorized/mlc.png
   imagelink: https://mlc-cad.com/
   styles: style="padding-left:-10px;"
-#de247
-- imageUrl: assets/authorized/de247.png
-  imagelink: https://www.digitalengineering247.com/
-  styles: style="padding-left:10px;"
+#de247 https://www.digitalengineering247.com/ change cybernet
+- imageUrl: assets/authorized/cybernet.png
+  imagelink: https://www.cybernet.co.jp/ 
+  styles: style="padding-left;0px;"
 #7
 - imageUrl: assets/authorized/marketwatch.png
   imagelink: https://www.marketwatch.com/press-release/global-engineering-software-cad-cam-cae-aec-eda-market-2019-key-vendors-trends-analysis-segmentation-forecast-to-2024-2019-05-31
